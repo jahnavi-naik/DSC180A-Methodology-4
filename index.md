@@ -16,5 +16,5 @@ We are currently focusing on just the burn data and while that is very important
 
 **What other techniques would you be interested in using in your project?**
 
-I think it would be interesting to work with data that involves datellite imagery and vegetation because that would help us consider more factors that explain the wildfire risk. This would give us information about fuel and weather conditions. If we are able to build out the model fully, we could potentially simulate different fire scenarios that could take place. 
+I think it would be interesting to work with data that involves satellite imagery and vegetation because that would help us consider more factors that explain the wildfire risk. This would give us information about fuel and weather conditions. If we are able to build out the model fully, we could potentially simulate different fire scenarios that could take place. 
 
