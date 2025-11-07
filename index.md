@@ -4,7 +4,7 @@ Section B13; Mentor: Ilyes Meftah
 
 **What is the most interesting topic covered in your domain this quarter?**
 
-The most interesting thing we covered so faris geospatial data. This type of data is new to me so it has been interesting experimenting with geopandas and learning about wildfire boundary data in .shp files.
+The most interesting thing we covered so far is geospatial data. This type of data is new to me so it has been interesting experimenting with geopandas and learning about wildfire boundary data in .shp files.
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
